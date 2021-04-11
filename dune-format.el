@@ -40,6 +40,10 @@
 
 (require 'reformatter)
 
+(defgroup dune-format nil
+  "Reformat OCaml's dune files automatically."
+  :group 'languages)
+
 ;;;###autoload (autoload 'dune-format-buffer "dune-format" nil t)
 ;;;###autoload (autoload 'dune-format-region "dune-format" nil t)
 ;;;###autoload (autoload 'dune-format-on-save-mode "dune-format" nil t)
