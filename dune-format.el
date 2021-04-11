@@ -23,7 +23,7 @@
 
 ;;; Commentary:
 
-;; Then call `dune-format', `dune-format-buffer' or `dune-format-region' as
+;; Call `dune-format', `dune-format-buffer' or `dune-format-region' as
 ;; convenient.
 
 ;; Enable `dune-format-on-save-mode' in `dune-mode' buffers like this:
