@@ -6,7 +6,7 @@
 ;; Keywords: languages
 ;; Package-Requires: ((reformatter "0.6") (emacs "24.1"))
 ;; Package-Version: 0.1-pre
-;; Homepage: https://github.com/purcell/dune-format-el
+;; Homepage: https://github.com/purcell/emacs-dune-format
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by

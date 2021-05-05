@@ -1,6 +1,6 @@
 [![Melpa Status](http://melpa.org/packages/dune-format-badge.svg)](http://melpa.org/#/dune-format)
 [![Melpa Stable Status](http://stable.melpa.org/packages/dune-format-badge.svg)](http://stable.melpa.org/#/dune-format)
-[![Build Status](https://github.com/purcell/dune-format-el/workflows/CI/badge.svg)](https://github.com/purcell/dune-format-el/actions)
+[![Build Status](https://github.com/purcell/emacs-dune-format/workflows/CI/badge.svg)](https://github.com/purcell/emacs-dune-format/actions)
 <a href="https://www.patreon.com/sanityinc"><img alt="Support me" src="https://img.shields.io/badge/Support%20Me-%F0%9F%92%97-ff69b4.svg"></a>
 
 dune-format.el
